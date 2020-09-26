@@ -6,6 +6,7 @@ const prefix = '/'
 
 client.once('ready', () => {
     console.log('Saitsu is online!')
+    client.user.setActivity("With Erge's emotions")
 });
 
 client.on('message', message => {
