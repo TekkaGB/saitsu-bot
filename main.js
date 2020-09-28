@@ -81,6 +81,17 @@ client.on('message', message => {
     if (message.content === '/erge') {
         message.react('749040707225780416');
     }
+    if (command === 'escribialtare') {
+        setInterval(() => {
+            message.channel.send('<@219590638276968449> Ponete a escribir cara de pija.');
+        }, 14400000);
+    }
+    if (command === 'stop') {
+        if (message.author.id !== '209823773833166850') {
+            return message.channel.send(`You cannot use this command!`)
+        }
+        process.exit();
+    }
 });
 
 client.login(process.env.token);
