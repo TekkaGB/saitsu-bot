@@ -92,6 +92,9 @@ client.on('message', message => {
         }
         process.exit();
     }
+    if (command === 'test') {
+        message.channel.send("bien gamer");
+    }
 });
 
 client.login(process.env.token);
