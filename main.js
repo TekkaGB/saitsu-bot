@@ -81,6 +81,9 @@ client.on('message', message => {
     if (message.content === '/erge') {
         message.react('749040707225780416');
     }
+    if (command === 'unamused') {
+        message.channel.send('https://cdn.discordapp.com/attachments/339880946826346498/662847082734026753/20200103_233707.png')
+    }
     if (command === 'escribialtare') {
         setInterval(() => {
             message.channel.send('<@219590638276968449> Ponete a escribir cara de pija.');
@@ -91,6 +94,14 @@ client.on('message', message => {
             return message.channel.send(`You cannot use this command!`)
         }
         process.exit();
+    }
+    if (command === 'cringy') {
+        if (message.author.id !== '209823773833166850') {
+            return message.channel.send(`You cannot use this command!`)
+        }
+        setInterval(() => {
+            message.channel.send('I see this place is cringy as always.');
+        }, 21600000);
     }
 });
 
