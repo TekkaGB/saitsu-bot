@@ -84,7 +84,13 @@ client.on('message', message => {
     if (command === 'unamused') {
         message.channel.send('https://cdn.discordapp.com/attachments/339880946826346498/662847082734026753/20200103_233707.png')
     }
+    if (command === 'nutshell') {
+        message.channel.send('https://media.discordapp.net/attachments/711289885071507519/760284192751091712/unknown.png')
+    }
     if (command === 'escribialtare') {
+        if (message.author.id !== '209823773833166850') {
+            return message.channel.send(`You cannot use this command!`)
+        }
         setInterval(() => {
             message.channel.send('<@219590638276968449> Ponete a escribir cara de pija.');
         }, 14400000);
