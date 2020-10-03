@@ -104,6 +104,9 @@ client.on('message', message => {
             message.channel.send('I see this place is cringy as always.');
         }, 21600000);
     }
+    if (command === 'altare') {
+        message.channel.send('<@219590638276968449> Sos un pelotudo y nadie te quiere.')
+    }
 });
 
 client.login(process.env.token);
