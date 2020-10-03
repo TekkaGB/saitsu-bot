@@ -88,12 +88,7 @@ client.on('message', message => {
         message.channel.send('https://media.discordapp.net/attachments/711289885071507519/760284192751091712/unknown.png')
     }
     if (command === 'escribialtare') {
-        if (message.author.id !== '209823773833166850') {
-            return message.channel.send(`You cannot use this command!`)
-        }
-        setInterval(() => {
-            message.channel.send('<@219590638276968449> Ponete a escribir cara de pija.');
-        }, 14400000);
+        message.channel.send('<@219590638276968449> https://media.discordapp.net/attachments/271082377487319042/761921381188763678/unknown.png');
     }
     if (command === 'stop') {
         if (message.author.id !== '209823773833166850') {
