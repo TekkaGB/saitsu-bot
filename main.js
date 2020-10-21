@@ -110,6 +110,9 @@ client.on('message', message => {
     if (command === 'pain') {
         message.channel.send('https://media.discordapp.net/attachments/711289885071507519/766808859653177364/Nagito_13.png?width=575&height=677')
     }
+    if (command === 'cry') {
+        message.channel.send('https://cdn.discordapp.com/attachments/711289885071507519/768571880876933151/Shuichi_cry.png')
+    }
 });
 
 client.login(process.env.token);
