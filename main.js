@@ -52,7 +52,7 @@ client.on('message', message => {
         message.channel.send('Nagito Komaeda stan');
     }
     if (command === 'kechi') {
-        message.channel.send('weeb');
+        message.channel.send("He's weeb and a nerd");
     }
     if (command === 'kill') {
         message.channel.send('https://www.youtube.com/watch?v=1JR95qMfo9A');
