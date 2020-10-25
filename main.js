@@ -113,6 +113,9 @@ client.on('message', message => {
     if (command === 'cry') {
         message.channel.send('https://cdn.discordapp.com/attachments/711289885071507519/768571880876933151/Shuichi_cry.png')
     }
+    if (command === 'bestgirl') {
+        message.channel.send('https://cdn.discordapp.com/attachments/711289885071507519/769976278790438942/fba41cf521b57d036f075e2786643eb1.png')
+    }
 });
 
 client.login(process.env.token);
