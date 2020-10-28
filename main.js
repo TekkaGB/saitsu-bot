@@ -116,6 +116,9 @@ client.on('message', message => {
     if (command === 'bestgirl') {
         message.channel.send('https://cdn.discordapp.com/attachments/711289885071507519/769976278790438942/fba41cf521b57d036f075e2786643eb1.png')
     }
+    if (command === 'crop') {
+        message.channel.send('https://media.discordapp.net/attachments/711289885071507519/770800235202215966/Z.png')
+    }
 });
 
 client.login(process.env.token);
