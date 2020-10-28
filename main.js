@@ -76,7 +76,7 @@ client.on('message', message => {
         message.channel.send('https://cdn.discordapp.com/attachments/711289885071507519/758940869708873758/prerequisites.mp4');
     }
     if (command === 'joke') {
-        message.channel.send("**yeah the fucking joke is that it's spelled wrong congratulations.**");
+        message.channel.send("**yeah that's the fucking joke.**");
     }
     if (message.content === '/erge') {
         message.react('749040707225780416');
