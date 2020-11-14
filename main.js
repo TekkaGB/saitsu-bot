@@ -119,6 +119,9 @@ client.on('message', message => {
     if (command === 'crop') {
         message.channel.send('https://media.discordapp.net/attachments/711289885071507519/770800235202215966/Z.png')
     }
+    if (command === 'Diluc') {
+        message.channel.send('https://media.discordapp.net/attachments/711289885071507519/777173040344596480/unknown.png')
+    }
 });
 
 client.login(process.env.token);
