@@ -122,6 +122,9 @@ client.on('message', message => {
     if (command === 'diluc') {
         message.channel.send('https://media.discordapp.net/attachments/711289885071507519/777173040344596480/unknown.png')
     }
+    if (command === 'cru') {
+        message.channel.send('https://media.discordapp.net/attachments/711289885071507519/777652930235990057/Shuichi_cru.png?width=388&height=678')
+    }
 });
 
 client.login(process.env.token);
