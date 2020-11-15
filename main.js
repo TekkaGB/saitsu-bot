@@ -18,14 +18,8 @@ client.on('message', message => {
     if (command === 'julian') {
         message.channel.send('<@262088319507103744> suicidate mogolico de mierda');
     }
-    if (command === 'dragoon') {
-        message.channel.send('<@348608997038882828> sos re putin vos amigo');
-    }
     if (command === 'p4g') {
         message.channel.send('P4G Modding Server commands: chair, hate, kechi, erge, kill, mudkip, mudkip1, saitsu, naoto, kiwi, help, tekka');
-    }
-    if (command === 'sloserver') {
-        message.channel.send("SLOPlay's Modding Server commands: hate, kill, saitsu, naoto, kiwi, ultiam, joke");
     }
     if (command === 'naoto') {
         message.channel.send('<a:naotodance:746218185019359332>');
