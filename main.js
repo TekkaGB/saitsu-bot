@@ -119,6 +119,9 @@ client.on('message', message => {
     if (command === 'cru') {
         message.channel.send('https://media.discordapp.net/attachments/711289885071507519/777652930235990057/Shuichi_cru.png?width=388&height=678')
     }
+    if (command === 'erge2') {
+        message.channel.send('He do be a furry doe.')
+    }
 });
 
 client.login(process.env.token);
