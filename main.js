@@ -89,6 +89,7 @@ client.on('message', message => {
     }
     else if (command === 'github') {
         message.channel.send('https://github.com/SaitsuP/saitsu-bot')
+    }
 });
 
 client.login(process.env.token);
