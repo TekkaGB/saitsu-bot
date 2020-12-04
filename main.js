@@ -27,9 +27,6 @@ client.on('message', message => {
     else if (command === 'console') {
         message.channel.send("Listen, most modding communities don't support console modding, not only because it's impractical, but also because you actually void your warranty for the console due to you modifying it. Lastly, stuff like jailbreak CAN damage your console. So, please don't ask for mods on console.");
     }
-    else if (command === 'lucas') {
-        message.channel.send('<@219590638276968449> RESPONDÉ LOS DMS PEDAZO DE BASURA');
-    }
     else if (command === 'mudkip2') {
         message.channel.send("He's fucking braindead man");
     }
