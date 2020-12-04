@@ -15,12 +15,6 @@ client.on('message', message => {
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
 
-    if (command === 'julian') {
-        message.channel.send('<@262088319507103744> suicidate mogolico de mierda');
-    }
-    if (command === 'p4g') {
-        message.channel.send('P4G Modding Server commands: chair, hate, kechi, erge, kill, mudkip, mudkip1, saitsu, naoto, kiwi, help, tekka');
-    }
     if (command === 'naoto') {
         message.channel.send('<a:naotodance:746218185019359332>');
     }
@@ -72,34 +66,11 @@ client.on('message', message => {
     if (command === 'joke') {
         message.channel.send("**yeah that's the fucking joke.**");
     }
-    if (message.content === '/erge') {
-        message.react('749040707225780416');
-    }
     if (command === 'unamused') {
         message.channel.send('https://cdn.discordapp.com/attachments/339880946826346498/662847082734026753/20200103_233707.png')
     }
     if (command === 'nutshell') {
         message.channel.send('https://media.discordapp.net/attachments/711289885071507519/760284192751091712/unknown.png')
-    }
-    if (command === 'escribialtare') {
-        message.channel.send('<@219590638276968449> https://media.discordapp.net/attachments/271082377487319042/761921381188763678/unknown.png');
-    }
-    if (command === 'stop') {
-        if (message.author.id !== '209823773833166850') {
-            return message.channel.send(`You cannot use this command!`)
-        }
-        process.exit();
-    }
-    if (command === 'cringy') {
-        if (message.author.id !== '209823773833166850') {
-            return message.channel.send(`You cannot use this command!`)
-        }
-        setInterval(() => {
-            message.channel.send('I see this place is cringy as always.');
-        }, 21600000);
-    }
-    if (command === 'altare') {
-        message.channel.send('<@219590638276968449> Sos un pelotudo y nadie te quiere.')
     }
     if (command === 'pain') {
         message.channel.send('https://media.discordapp.net/attachments/711289885071507519/766808859653177364/Nagito_13.png?width=575&height=677')
