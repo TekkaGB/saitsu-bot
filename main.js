@@ -27,12 +27,6 @@ client.on('message', message => {
     else if (command === 'console') {
         message.channel.send("Listen, most modding communities don't support console modding, not only because it's impractical, but also because you actually void your warranty for the console due to you modifying it. Lastly, stuff like jailbreak CAN damage your console. So, please don't ask for mods on console.");
     }
-    else if (command === 'mudkip2') {
-        message.channel.send("He's fucking braindead man");
-    }
-    else if (command === 'mudkip') {
-        message.channel.send('simp');
-    }
     else if (command === 'saitsu') {
         message.channel.send('Nagito Komaeda stan');
     }
@@ -57,8 +51,11 @@ client.on('message', message => {
     else if (command === 'tekka') {
         message.channel.send('OwO');
     }
-    else if (command === 'help') {
+    else if (command === 'pre') {
         message.channel.send('https://cdn.discordapp.com/attachments/711289885071507519/758940869708873758/prerequisites.mp4');
+    }
+    else if (command === 'help') {
+        message.channel.send('No.')
     }
     else if (command === 'joke') {
         message.channel.send("**yeah that's the fucking joke.**");
