@@ -57,6 +57,9 @@ client.on('message', message => {
     else if (command === 'help') {
         message.channel.send('No.')
     }
+    else if (command === 'worstgirl') {
+        message.channel.send('https://megamitensei.fandom.com/wiki/Makoto_Niijima')
+    }
     else if (command === 'joke') {
         message.channel.send("**yeah that's the fucking joke.**");
     }
