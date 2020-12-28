@@ -31,7 +31,7 @@ client.on('message', message => {
         message.channel.send('Nagito Komaeda stan');
     }
     else if (command === 'kechi') {
-        message.channel.send("He's weeb and a nerd");
+        message.channel.send("He's weeb, a nerd and a simp");
     }
     else if (command === 'kill') {
         message.channel.send('https://www.youtube.com/watch?v=1JR95qMfo9A');
