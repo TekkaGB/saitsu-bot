@@ -145,10 +145,10 @@ client.on('message', message => {
     else if (command === 'github') {
         message.channel.send('https://github.com/SaitsuP/saitsu-bot')
     }
-    else if (command === `mudkip`) {
+    else if (command === 'mudkip') {
         message.channel.send('https://cdn.discordapp.com/attachments/791485430758375447/791772311304405022/OIP.png')
     }
-    else if (command === `PPPU`) {
+    else if (command === 'PPPU') {
         message.channel.send('https://cdn.discordapp.com/attachments/746230710150496367/795605254828982302/IMG_20210104_175109.jpg')
     }
 });
