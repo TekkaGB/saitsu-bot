@@ -49,7 +49,7 @@ client.on('message', message => {
         message.channel.send('Erge is a little bitch');
     }
     else if (command === 'tekka') {
-        message.channel.send('OwO');
+        message.channel.send('https://www.ko-fi.com/tekka');
     }
     else if (command === 'pre') {
         message.channel.send('https://cdn.discordapp.com/attachments/711289885071507519/758940869708873758/prerequisites.mp4');
@@ -89,6 +89,9 @@ client.on('message', message => {
     }
     else if (command === 'github') {
         message.channel.send('https://github.com/SaitsuP/saitsu-bot')
+    }
+    else if (command === `mudkip`) {
+        message.channel.send('https://cdn.discordapp.com/attachments/791485430758375447/791772311304405022/OIP.png')
     }
 });
 
