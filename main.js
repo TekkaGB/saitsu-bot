@@ -116,4 +116,6 @@ client.on('message', message =>{
     if(command === 'bestgirl'){
         client.commands.get('bestgirl').execute(message, args);
     }
+});
+
 client.login(process.env.token);
