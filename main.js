@@ -150,9 +150,6 @@ client.on('message', message => {
     else if (command === 'cry') {
         message.channel.send('https://cdn.discordapp.com/attachments/711289885071507519/768571880876933151/Shuichi_cry.png')
     }
-    else if (command === 'bestgirl') {
-        message.channel.send(girls[getRandomNumber(0,(girls.length-1))])
-    }
     else if (command === 'crop') {
         message.channel.send('https://media.discordapp.net/attachments/711289885071507519/770800235202215966/Z.png')
     }
