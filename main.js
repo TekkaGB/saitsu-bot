@@ -105,6 +105,9 @@ client.on('message', message => {
     else if (command === 'pppu') {
         message.channel.send('https://cdn.discordapp.com/attachments/746230710150496367/795605254828982302/IMG_20210104_175109.jpg')
     }
+    else if (command === 'test') {
+        message.channel.send('test')
+    }
 });
 
 client.on('message', message =>{
