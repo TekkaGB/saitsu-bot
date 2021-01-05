@@ -60,6 +60,7 @@ var boys = ['https://static.wikia.nocookie.net/megamitensei/images/1/15/P2EP-Ear
                 'https://static.wikia.nocookie.net/megamitensei/images/b/ba/P5S_Zenkichi_Hasegawa.png/revision/latest/scale-to-width-down/361?cb=20191223220442',
                 'https://static.wikia.nocookie.net/megamitensei/images/9/99/P3DMN_P5DSN_-_Sho_Artwork.png/revision/latest/scale-to-width-down/707?cb=20180512015143',
                 'https://static.wikia.nocookie.net/megamitensei/images/2/23/PQ_Zen_Render.png/revision/latest/scale-to-width-down/431?cb=20140531163132',
+                "That'd be $3 chief.",
                 'There is no best boy.']
 
 const getRandomNumber = (min, max) => {

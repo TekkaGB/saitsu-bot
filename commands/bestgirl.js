@@ -61,6 +61,7 @@ var girls = ['https://static.wikia.nocookie.net/megamitensei/images/a/af/P5_Mako
                 'https://static.wikia.nocookie.net/megamitensei/images/2/28/P4D_Tamami_Uesugi_portrait.png/revision/latest/scale-to-width-down/323?cb=20160511225618',
                 'https://static.wikia.nocookie.net/megamitensei/images/1/12/P4D_Nozomi_Nakahara_portrait.png/revision/latest/scale-to-width-down/253?cb=20160511225713',
                 'https://static.wikia.nocookie.net/megamitensei/images/4/49/P4D_Ochimizu_protrait.png/revision/latest/scale-to-width-down/350?cb=20160511230120',
+                "That'd be $3 chief.",
                 'There is no best girl.']
 
 const getRandomNumber = (min, max) => {
