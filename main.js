@@ -114,9 +114,8 @@ client.on('message', message =>{
  
     if(command === 'bestgirl'){
         client.commands.get('bestgirl').execute(message, args);
-    } else if(command ==='bestboy'){
+    } else if (command === 'bestboy') {
         client.commands.get('bestboy').execute(message, args);
-    }
 });
 
 client.login(process.env.token);
