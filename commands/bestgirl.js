@@ -63,6 +63,10 @@ var girls = ['https://static.wikia.nocookie.net/megamitensei/images/a/af/P5_Mako
                 'https://static.wikia.nocookie.net/megamitensei/images/4/49/P4D_Ochimizu_protrait.png/revision/latest/scale-to-width-down/350?cb=20160511230120',
                 'There is no best girl.']
 
+const getRandomNumber = (min, max) => {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+};
+
 module.exports = {
     name: 'bestgirl',
     description: "Bot will send random Persona girl",
