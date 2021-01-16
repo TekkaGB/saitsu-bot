@@ -44,6 +44,9 @@ client.on('message', message => {
     else if (command === 'kechi') {
         message.channel.send("He's weeb, a nerd and a simp");
     }
+    else if (command === 'kechi2') {
+        message.channel.send("https://media.discordapp.net/attachments/711289885071507519/799840691035308032/weeb_rat.png");
+    }
     else if (command === 'kill') {
         message.channel.send('https://www.youtube.com/watch?v=1JR95qMfo9A');
     }
@@ -103,9 +106,6 @@ client.on('message', message => {
     }
     else if (command === 'test') {
         message.channel.send('test')
-    }
-    else if (command === 'kechi2') {
-        message.channel.send('https://media.discordapp.net/attachments/711289885071507519/799840691035308032/weeb_rat.png')
     }
 });
 
