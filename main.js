@@ -107,6 +107,9 @@ client.on('message', message => {
     else if (command === 'test') {
         message.channel.send('test')
     }
+    else if (command === 'dbfzcrash') {
+        message.channel.send('https://youtu.be/FBbW8B3jgn0')
+    }
 });
 
 client.on('message', message =>{
