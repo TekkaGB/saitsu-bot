@@ -110,6 +110,15 @@ client.on('message', message => {
     else if (command === 'dbfzcrash') {
         message.channel.send('https://youtu.be/FBbW8B3jgn0')
     }
+    else if (command === 'rule1') {
+        message.channel.send('Saitsu')
+    }
+    else if (command === 'rule2') {
+        message.channel.send('No posting nsfw content at all, this is a modding server not a porn server')
+    }
+    else if (command === 'rule3') {
+        message.channel.send('No posting memes in anywhere but #memes')
+    }
 });
 
 client.on('message', message =>{
