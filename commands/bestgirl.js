@@ -71,7 +71,7 @@ const getRandomNumber = (min, max) => {
 module.exports = {
     name: 'bestgirl',
     description: "Bot will send random Persona girl",
-    execute(message, args){
+    execute(client, message, args){
         message.channel.send(girls[getRandomNumber(0,(girls.length-1))])
     }
 }
