@@ -70,7 +70,7 @@ const getRandomNumber = (min, max) => {
 module.exports = {
     name: 'bestboy',
     description: "Bot will send random Persona boy",
-    execute(client, message, args){
+    execute(client, message, args, Discord){
         message.channel.send(boys[getRandomNumber(0,(boys.length-1))])
     }
 }
