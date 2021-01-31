@@ -39,7 +39,7 @@ client.on('message', message => {
         message.channel.send("Listen, most modding communities don't support console modding, not only because it's impractical, but also because you actually void your warranty for the console due to you modifying it. Lastly, stuff like jailbreak CAN damage your console. So, please don't ask for mods on console.");
     }
     else if (command === 'saitsu') {
-        message.channel.send('Nagito Komaeda stan');
+        message.channel.send('Dead');
     }
     else if (command === 'kechi') {
         message.channel.send("He's weeb, a nerd and a simp");
