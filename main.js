@@ -15,8 +15,6 @@ for(const file of commandFiles){
     client.commands.set(command.name, command);
 }
 
-require('dotenv').config()
-
 
 client.once('ready', () => {
     console.log('Saitsu is online!')
