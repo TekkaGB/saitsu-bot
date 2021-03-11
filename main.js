@@ -15,6 +15,13 @@ for(const file of commandFiles){
     client.commands.set(command.name, command);
 }
 
+const path = require('path')
+
+const signale = require('signale')
+
+require('dotenv').config()
+
+
 client.once('ready', () => {
     console.log('Saitsu is online!')
     client.user.setActivity("With Erge's emotions")
@@ -131,6 +138,8 @@ client.on('message', message =>{
         client.commands.get('bestgirl').execute(message, args);
     } else if (command === 'bestboy') {
         client.commands.get('bestboy').execute(message, args);
+    } else if (command === 'horny') {
+        client.commands.get('horny').execute(message, args);
     }
 });
 
