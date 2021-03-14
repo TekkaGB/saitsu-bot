@@ -111,6 +111,9 @@ client.on('message', message => {
     else if (command === 'dbfzcrash') {
         message.channel.send('https://youtu.be/FBbW8B3jgn0')
     }
+    else if (command === 'vegeta') {
+        message.channel.send('https://images-ext-2.discordapp.net/external/etMem9kG4pa6VQoI99HGzIe2OSg45ghidCpBBGQHrlE/http/24.media.tumblr.com/a49ec9d4e581b82c8a7e682eb18d05c9/tumblr_n4x6f6m7SZ1s21c3eo1_500.gif')
+    }
     else if (command === 'rule1') {
         message.channel.send('Saitsu')
     }
