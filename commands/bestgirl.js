@@ -89,6 +89,10 @@ var girls = ['https://static.wikia.nocookie.net/megamitensei/images/a/af/P5_Mako
                 'https://static.wikia.nocookie.net/danganronpa/images/b/b2/Danganronpa_V3_Hiyoko_Saionji_Bonus_Mode_Sprites_06.png/revision/latest/scale-to-width-down/810?cb=20171112211554',
                 'https://static.wikia.nocookie.net/danganronpa/images/3/30/Danganronpa_V3_Chiaki_Nanami_Bonus_Mode_Sprites_01.png/revision/latest/scale-to-width-down/552?cb=20171111234101',
                 'https://static.wikia.nocookie.net/danganronpa/images/9/93/Danganronpa_V3_Monomi_Bonus_Mode_Sprites_03.png/revision/latest/scale-to-width-down/566?cb=20171111230653',
+                'https://static.wikia.nocookie.net/danganronpa/images/4/41/Danganronpa_3_-_Fullbody_Profile_-_Miaya_Gekkogahara.png/revision/latest/scale-to-width-down/270?cb=20180909012455',
+                'https://static.wikia.nocookie.net/danganronpa/images/e/e8/Danganronpa_3_-_Chisa_Yukizome_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/400?cb=20200830144353',
+                'https://static.wikia.nocookie.net/danganronpa/images/e/e8/Danganronpa_3_-_Chisa_Yukizome_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/400?cb=20200830144353',
+                'https://static.wikia.nocookie.net/danganronpa/images/6/67/Danganronpa_3_-_Ruruka_Ando_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/400?cb=20200830144418',
                 "That'd be $3 chief.",
                 'There is no best girl.']
 
