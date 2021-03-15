@@ -60,6 +60,39 @@ var boys = ['https://static.wikia.nocookie.net/megamitensei/images/1/15/P2EP-Ear
                 'https://static.wikia.nocookie.net/megamitensei/images/b/ba/P5S_Zenkichi_Hasegawa.png/revision/latest/scale-to-width-down/361?cb=20191223220442',
                 'https://static.wikia.nocookie.net/megamitensei/images/9/99/P3DMN_P5DSN_-_Sho_Artwork.png/revision/latest/scale-to-width-down/707?cb=20180512015143',
                 'https://static.wikia.nocookie.net/megamitensei/images/2/23/PQ_Zen_Render.png/revision/latest/scale-to-width-down/431?cb=20140531163132',
+                'https://static.wikia.nocookie.net/danganronpa/images/0/00/Danganronpa_V3_Makoto_Naegi_Bonus_Mode_01.png/revision/latest/scale-to-width-down/628?cb=20171122111638',
+                'https://static.wikia.nocookie.net/danganronpa/images/0/0f/Danganronpa_V3_Bonus_Mode_Chihiro_Fujisaki_Sprite_%281%29.png/revision/latest/scale-to-width-down/521?cb=20171113052458',
+                'https://static.wikia.nocookie.net/danganronpa/images/b/b0/Danganronpa_V3_Bonus_Mode_Byakuya_Togami_Sprite_%281%29.png/revision/latest/scale-to-width-down/559?cb=20171113040300',
+                'https://static.wikia.nocookie.net/danganronpa/images/d/da/Danganronpa_V3_Bonus_Mode_Hifumi_Yamada_Sprite_%281%29.png/revision/latest/scale-to-width-down/1000?cb=20171113044919',
+                'https://static.wikia.nocookie.net/danganronpa/images/2/28/Danganronpa_V3_Bonus_Mode_Kiyotaka_Ishimaru_Sprite_%281%29.png/revision/latest/scale-to-width-down/582?cb=20171111130003',
+                'https://static.wikia.nocookie.net/danganronpa/images/f/fd/Danganronpa_V3_Bonus_Mode_Leon_Kuwata_Sprite_%281%29.png/revision/latest/scale-to-width-down/730?cb=20171113051841',
+                'https://static.wikia.nocookie.net/danganronpa/images/7/74/Mondo_Owada_Oowada_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/523?cb=20170519070147',
+                'https://static.wikia.nocookie.net/danganronpa/images/5/50/Danganronpa_V3_Bonus_Mode_Yasuhiro_Hagakure_Sprite_%281%29.png/revision/latest/scale-to-width-down/968?cb=20171113044318',
+                'https://static.wikia.nocookie.net/danganronpa/images/c/c6/Danganronpa_V3_Hajime_Hinata_Bonus_Mode_Sprites_12.png/revision/latest/scale-to-width-down/709?cb=20171111223425',
+                'https://static.wikia.nocookie.net/danganronpa/images/f/f2/Danganronpa_V3_Ultimate_Imposter_Bonus_Mode_Sprites_01.png/revision/latest/scale-to-width-down/915?cb=20171111234149',
+                'https://static.wikia.nocookie.net/danganronpa/images/6/65/Danganronpa_V3_Fuyuhiko_Kuzuryu_Bonus_Mode_Sprites_22.png/revision/latest/scale-to-width-down/553?cb=20171111234801',
+                'https://static.wikia.nocookie.net/danganronpa/images/3/32/Danganronpa_V3_Gundham_Tanaka_Bonus_Mode_Sprites_02.png/revision/latest/scale-to-width-down/1000?cb=20171111235125',
+                'https://static.wikia.nocookie.net/danganronpa/images/1/1b/Danganronpa_V3_Nagito_Komaeda_Bonus_Mode_Sprites_20.png/revision/latest/scale-to-width-down/604?cb=20171113193904',
+                'https://static.wikia.nocookie.net/danganronpa/images/b/b1/Danganronpa_V3_Bonus_Mode_Nekomaru_Nidai_Sprite_%281%29.png/revision/latest/scale-to-width-down/1000?cb=20171115074356',
+                'https://static.wikia.nocookie.net/danganronpa/images/e/e6/Danganronpa_V3_Bonus_Mode_Teruteru_Hanamura_Sprite_%281%29.png/revision/latest/scale-to-width-down/668?cb=20171115073616',
+                'https://static.wikia.nocookie.net/danganronpa/images/d/df/Danganronpa_V3_Bonus_Mode_Izuru_Kamukura_Sprite_02.png/revision/latest/scale-to-width-down/1000?cb=20171123052031',
+                'https://static.wikia.nocookie.net/danganronpa/images/6/68/Taichi_Fujisaki_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/741?cb=20170629142219',
+                'https://static.wikia.nocookie.net/danganronpa/images/c/c0/Yuta_Asahina_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/761?cb=20170629142545',
+                'https://static.wikia.nocookie.net/danganronpa/images/a/a7/Haiji_Towa_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/1000?cb=20170629125140',
+                'https://static.wikia.nocookie.net/danganronpa/images/d/df/Danganronpa_V3_K1-B0_Halfbody_Sprite_%28Ahoge%29_%281%29.png/revision/latest/scale-to-width-down/567?cb=20180505110624',
+                'https://static.wikia.nocookie.net/danganronpa/images/0/0d/Danganronpa_V3_Kaito_Momota_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/865?cb=20180508085734',
+                'https://static.wikia.nocookie.net/danganronpa/images/8/80/Danganronpa_V3_Gonta_Gokuhara_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/776?cb=20180418192609',
+                'https://static.wikia.nocookie.net/danganronpa/images/f/f5/Danganronpa_V3_Kokichi_Oma_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/550?cb=20180506071226',
+                'https://static.wikia.nocookie.net/danganronpa/images/5/50/Danganronpa_V3_Korekiyo_Shinguji_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/567?cb=20180417184802',
+                'https://static.wikia.nocookie.net/danganronpa/images/7/76/Danganronpa_V3_Shuichi_Saihara_Halfbody_Sprite_%28No_Hat%29_%281%29.png/revision/latest/scale-to-width-down/539?cb=20180505054029',
+                'https://static.wikia.nocookie.net/danganronpa/images/3/3a/Danganronpa_V3_Rantaro_Amami_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/592?cb=20180429103858',
+                'https://static.wikia.nocookie.net/danganronpa/images/c/c2/Danganronpa_V3_Ryoma_Hoshi_Halfbody_Sprite_%281%29.png/revision/latest/scale-to-width-down/484?cb=20180504133252',
+                'https://static.wikia.nocookie.net/danganronpa/images/7/72/Danganronpa_3_-_Juzo_Sakakura_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/400?cb=20200830144401',
+                'https://static.wikia.nocookie.net/danganronpa/images/2/28/Danganronpa_3_-_Ryota_Mitarai_%28Future%29_Sidebar.png/revision/latest?cb=20200830144420',
+                'https://static.wikia.nocookie.net/danganronpa/images/b/b4/Danganronpa_3_-_Sonosuke_Izayoi_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/400?cb=20200830144427',
+                'https://static.wikia.nocookie.net/danganronpa/images/f/f9/Danganronpa_3_-_Koichi_Kizakura_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/400?cb=20200830144408',
+                'https://static.wikia.nocookie.net/danganronpa/images/0/0d/Danganronpa_3_-_Kyosuke_Munakata_%28Future%29_Sidebar.png/revision/latest/scale-to-width-down/400?cb=20200830144413',
+                'https://static.wikia.nocookie.net/danganronpa/images/1/1b/Danganronpa_V3_Nagito_Komaeda_Bonus_Mode_Sprites_20.png/revision/latest/scale-to-width-down/604?cb=20171113193904',
                 "That'd be $3 chief.",
                 'There is no best boy.']
 
@@ -69,7 +102,7 @@ const getRandomNumber = (min, max) => {
 
 module.exports = {
     name: 'bestboy',
-    description: "Bot will send random Persona boy",
+    description: "Bot will send random boy",
     execute(message, args){
         message.channel.send(boys[getRandomNumber(0,(boys.length-1))])
     }
