@@ -107,6 +107,10 @@ var boys = ['https://static.wikia.nocookie.net/megamitensei/images/1/15/P2EP-Ear
                 'https://static.wikia.nocookie.net/gensin-impact/images/4/47/Character_Traveler_%28Male%29_Portrait.png/revision/latest/scale-to-width-down/700?cb=20200915142015',
                 'https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Razor_Portrait.png/revision/latest/scale-to-width-down/1000?cb=20200916151017',
                 'https://static.wikia.nocookie.net/gensin-impact/images/7/73/Character_Bennett_Portrait.png/revision/latest/scale-to-width-down/1000?cb=20200916170558',
+                'https://static.wikia.nocookie.net/devilmaycry/images/8/83/V.png/revision/latest/scale-to-width-down/1000?cb=20190323143713',
+                'https://static.wikia.nocookie.net/devilmaycry/images/9/9f/Nero_DMC5.png/revision/latest/scale-to-width-down/1000?cb=20181001090434',
+                'https://static.wikia.nocookie.net/devilmaycry/images/4/4e/Vergil_DMC5.png/revision/latest/scale-to-width-down/1000?cb=20201021151922',
+                'https://static.wikia.nocookie.net/devilmaycry/images/c/c2/Dante_DMC5.png/revision/latest/scale-to-width-down/1000?cb=20180922220047',
                 "That'd be $3 chief.",
                 'There is no best boy.']
 

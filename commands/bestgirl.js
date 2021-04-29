@@ -111,6 +111,8 @@ var girls = ['https://static.wikia.nocookie.net/megamitensei/images/6/60/P5R_Mak
                 'https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Xinyan_Portrait.png/revision/latest/scale-to-width-down/1000?cb=20201128161608',
                 'https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Xiangling_Portrait.png/revision/latest/scale-to-width-down/1000?cb=20200916184026',
                 'https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Character_Yanfei_Card.png/revision/latest?cb=20210422100113',
+                'https://static.wikia.nocookie.net/devilmaycry/images/c/c9/DMC5_Lady.png/revision/latest/scale-to-width-down/1000?cb=20180922220400',
+                'https://static.wikia.nocookie.net/devilmaycry/images/7/79/DMC5_Trish.png/revision/latest/scale-to-width-down/1000?cb=20180922220252',
                 "That'd be $3 chief.",
                 'There is no best girl.']
 
