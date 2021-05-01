@@ -111,6 +111,13 @@ var boys = ['https://static.wikia.nocookie.net/megamitensei/images/1/15/P2EP-Ear
                 'https://static.wikia.nocookie.net/devilmaycry/images/9/9f/Nero_DMC5.png/revision/latest/scale-to-width-down/1000?cb=20181001090434',
                 'https://static.wikia.nocookie.net/devilmaycry/images/4/4e/Vergil_DMC5.png/revision/latest/scale-to-width-down/1000?cb=20201021151922',
                 'https://static.wikia.nocookie.net/devilmaycry/images/c/c2/Dante_DMC5.png/revision/latest/scale-to-width-down/1000?cb=20180922220047',
+                'https://static.wikia.nocookie.net/twewy/images/4/46/Neku_Sakuraba.png/revision/latest/scale-to-width-down/502?cb=20190608040750',
+                'https://static.wikia.nocookie.net/twewy/images/9/91/Beat.png/revision/latest/scale-to-width-down/1000?cb=20200704171552',
+                'https://static.wikia.nocookie.net/twewy/images/b/bf/Joshua_SR.png/revision/latest/scale-to-width-down/589?cb=20190510055756',
+                'https://static.wikia.nocookie.net/twewy/images/c/c0/Chara3.png/revision/latest/scale-to-width-down/319?cb=20181130035345',
+                'https://static.wikia.nocookie.net/twewy/images/e/ea/Kariya.png/revision/latest/scale-to-width-down/1000?cb=20200707012132',
+                'https://static.wikia.nocookie.net/twewy/images/1/15/Sanae_Hanekoma_character_art.png/revision/latest/scale-to-width-down/326?cb=20190523055706',
+                
                 "That'd be $3 chief.",
                 'There is no best boy.']
 

@@ -113,6 +113,9 @@ var girls = ['https://static.wikia.nocookie.net/megamitensei/images/6/60/P5R_Mak
                 'https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Character_Yanfei_Card.png/revision/latest?cb=20210422100113',
                 'https://static.wikia.nocookie.net/devilmaycry/images/c/c9/DMC5_Lady.png/revision/latest/scale-to-width-down/1000?cb=20180922220400',
                 'https://static.wikia.nocookie.net/devilmaycry/images/7/79/DMC5_Trish.png/revision/latest/scale-to-width-down/1000?cb=20180922220252',
+                'https://static.wikia.nocookie.net/twewy/images/1/13/Shiki_Misaki.png/revision/latest/scale-to-width-down/607?cb=20200629182847',
+                'https://static.wikia.nocookie.net/twewy/images/3/35/Rhyme.png/revision/latest/scale-to-width-down/240?cb=20190510040250',
+                'https://static.wikia.nocookie.net/twewy/images/8/88/Uzuki.png/revision/latest/scale-to-width-down/1000?cb=20200705142632',
                 "That'd be $3 chief.",
                 'There is no best girl.']
 
