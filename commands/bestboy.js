@@ -117,7 +117,7 @@ var boys = ['https://static.wikia.nocookie.net/megamitensei/images/1/15/P2EP-Ear
                 'https://static.wikia.nocookie.net/twewy/images/c/c0/Chara3.png/revision/latest/scale-to-width-down/319?cb=20181130035345',
                 'https://static.wikia.nocookie.net/twewy/images/e/ea/Kariya.png/revision/latest/scale-to-width-down/1000?cb=20200707012132',
                 'https://static.wikia.nocookie.net/twewy/images/1/15/Sanae_Hanekoma_character_art.png/revision/latest/scale-to-width-down/326?cb=20190523055706',
-                
+                'https://static.wikia.nocookie.net/helltaker/images/6/65/TheHelltaker1Pancakes.png/revision/latest/scale-to-width-down/752?cb=20200620004423',
                 "That'd be $3 chief.",
                 'There is no best boy.']
 
