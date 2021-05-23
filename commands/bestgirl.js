@@ -109,7 +109,6 @@ var girls = ['https://static.wikia.nocookie.net/megamitensei/images/6/60/P5R_Mak
                 'https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Character_Paimon_Portrait.png/revision/latest/scale-to-width-down/668?cb=20201205191049',
                 'https://static.wikia.nocookie.net/gensin-impact/images/1/17/Character_Ningguang_Portrait.png/revision/latest/scale-to-width-down/1000?cb=20200916184236',
                 'https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Xinyan_Portrait.png/revision/latest/scale-to-width-down/1000?cb=20201128161608',
-
                 'https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Character_Yanfei_Card.png/revision/latest?cb=20210422100113',
                 'https://static.wikia.nocookie.net/devilmaycry/images/c/c9/DMC5_Lady.png/revision/latest/scale-to-width-down/1000?cb=20180922220400',
                 'https://static.wikia.nocookie.net/devilmaycry/images/7/79/DMC5_Trish.png/revision/latest/scale-to-width-down/1000?cb=20180922220252',
@@ -126,6 +125,7 @@ var girls = ['https://static.wikia.nocookie.net/megamitensei/images/6/60/P5R_Mak
                 'https://static.wikia.nocookie.net/helltaker/images/2/27/Cerberus2Excited.png/revision/latest/scale-to-width-down/1000?cb=20200620003638',
                 'https://static.wikia.nocookie.net/helltaker/images/5/51/Modeus1Idle.png/revision/latest/scale-to-width-down/540?cb=20200620185729',
                 'https://static.wikia.nocookie.net/helltaker/images/c/c1/Pandemonica1Idle.png/revision/latest/scale-to-width-down/550?cb=20200622001507',
+                'https://static.wikia.nocookie.net/helltaker/images/1/17/Beelzebub3Idle.png/revision/latest/scale-to-width-down/736?cb=20200619235746',
                 "That'd be $3 chief.",
                 'There is no best girl.']
 
