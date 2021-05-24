@@ -96,7 +96,7 @@ client.on('message', message => {
     else if (command === 'erge2') {
         message.channel.send('He do be a furry doe.')
     }
-    else if (command === 'github') {
+    else if (command === 'saitsugithub') {
         message.channel.send('https://github.com/SaitsuP/saitsu-bot')
     }
     else if (command === 'mudkip') {
