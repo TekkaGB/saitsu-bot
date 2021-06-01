@@ -128,6 +128,7 @@ var girls = ['https://static.wikia.nocookie.net/megamitensei/images/6/60/P5R_Mak
                 'https://static.wikia.nocookie.net/helltaker/images/c/c1/Pandemonica1Idle.png/revision/latest/scale-to-width-down/550?cb=20200622001507',
                 'https://static.wikia.nocookie.net/helltaker/images/1/17/Beelzebub3Idle.png/revision/latest/scale-to-width-down/736?cb=20200619235746',
                 "That'd be $3 chief.",
+                'https://media.discordapp.net/attachments/645431333434294332/849295935699550268/ezgif.com-gif-maker_1.gif',
                 'There is no best girl.']
 
 const getRandomNumber = (min, max) => {

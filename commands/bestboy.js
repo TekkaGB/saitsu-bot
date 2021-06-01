@@ -120,6 +120,7 @@ var boys = ['https://static.wikia.nocookie.net/megamitensei/images/1/15/P2EP-Ear
                 'https://static.wikia.nocookie.net/helltaker/images/6/65/TheHelltaker1Pancakes.png/revision/latest/scale-to-width-down/752?cb=20200620004423',
                 'https://static.wikia.nocookie.net/helltaker/images/9/90/Su67_a.png/revision/latest/scale-to-width-down/1000?cb=20210511200043',
                 "That'd be $3 chief.",
+                'https://media.discordapp.net/attachments/645431333434294332/849295935699550268/ezgif.com-gif-maker_1.gif',
                 'There is no best boy.']
 
 const getRandomNumber = (min, max) => {
