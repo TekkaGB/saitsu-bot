@@ -18,7 +18,7 @@ for(const file of commandFiles){
 
 client.once('ready', () => {
     console.log('Saitsu is online!')
-    client.user.setActivity("With Erge's emotions")
+    client.user.setActivity("Danganronpa for the Nintendo 3DS")
 });
 
 client.on('message', message => {
