@@ -123,6 +123,15 @@ client.on('message', message => {
     else if (command === 'rule3') {
         message.channel.send('No posting memes in anywhere but #memes')
     }
+    else if (command === 'guide') {
+        message.channel.send('https://gamebanana.com/tuts/13379')
+    }
+    else if (command === 'crashing') {
+        message.channel.send('See the \"Beginner\'s Guide\" (<https://gamebanana.com/tuts/13379>) and below screenshot:\nhttps://media.discordapp.net/attachments/749400313492013107/863440347807219742/crashing.jpg')
+    }
+    else if (command === 'prereq') {
+        message.channel.send('See the \"Beginner\'s Guide\" (<https://gamebanana.com/tuts/13379>) and below screenshot:\nhttps://media.discordapp.net/attachments/749400313492013107/863440447539380244/prereq.jpg\nLink to All-in-One Prerequisite Installer: (<https://gamebanana.com/tools/6928>)')
+    }
 });
 
 client.on('message', message =>{
